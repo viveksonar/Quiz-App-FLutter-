@@ -14,3 +14,12 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+My first basic quiz app was using the Flutter framework.
+
+Quiz-app has a set of only three questions as of now, but I will soon be creating a large collection of intriguing questions on a server that will be fetched by the app according to the category chosen to play with.
+
+In this, I have only used some basic widgets like --->
+
+-> Scaffold -> AppBar -> Preferred size -> Column -> Text -> Container -> Stateless & -> Statefull
